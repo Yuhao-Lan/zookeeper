@@ -1,0 +1,2 @@
+/home/yuhaolan/src/test/CMakeFiles/worker.dir
+/home/yuhaolan/src/test/CMakeFiles/master.dir

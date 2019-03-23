@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/master.dir/master.cc.o CMakeFiles/master.dir/generated/hello.pb.cc.o CMakeFiles/master.dir/generated/hello.grpc.pb.cc.o  -o master  -L/usr/local/lib -rdynamic -lgrpc++_unsecure -lgrpc -lgpr /usr/local/lib/libprotobuf.a -lconservator-framework -lzookeeper_mt -Wl,-rpath,/usr/local/lib 
