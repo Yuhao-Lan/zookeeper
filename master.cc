@@ -17,7 +17,7 @@ using helloworld::HelloReply;
 using helloworld::HelloRequest;
 using namespace std;
 
-string default_master_prefix = "master1";
+string default_master_prefix = "myVMDeployed1";
 string hostname = "";
 int stop = 0;
 mutex terminated_mtx;
